@@ -9,7 +9,7 @@ Command to create a directory inside another directory when a parent directory d
 mkdir -p PARENT_DIRECTORY/CHILD_DIRECTORY
 ```
 
-![Sol1](<Screenshot from 2023-11-07 21-33-02.png>)
+![Sol1](https://github.com/itsaviral2609/apiwiz-assignment/blob/main/tasks/Screenshot%20from%202023-11-07%2021-33-02.png)
 
 
 ---
@@ -124,8 +124,8 @@ done
 ```
 
 
- ### Solution     ![Steps](<Screenshot from 2023-11-07 22-36-55.png>)  
-![Script](<Screenshot from 2023-11-07 22-37-15-1.png>)
+ ### Solution     ![Steps](https://github.com/itsaviral2609/apiwiz-assignment/blob/main/tasks/Screenshot%20from%202023-11-07%2022-36-55.png)  
+![Script](https://github.com/itsaviral2609/apiwiz-assignment/blob/main/tasks/Screenshot%20from%202023-11-07%2022-37-15-1.png)
 
 ---
 
@@ -228,7 +228,7 @@ Containers are ephemeral and mutable. This means that they can be started, stopp
 
 ### Solution
 
-![Alt text](<Screenshot from 2023-11-08 01-09-40.png>)
+![Alt text](https://github.com/itsaviral2609/apiwiz-assignment/blob/main/tasks/Screenshot%20from%202023-11-08%2001-09-40.png)
 ---
 
 # 3. Kubernetes:
@@ -403,10 +403,10 @@ jobs:
 
 Wrote its file but couldn't deploy.
 
-![Alt text](<Screenshot from 2023-11-09 00-14-03.png>)
+![Alt text](https://github.com/itsaviral2609/apiwiz-assignment/blob/main/tasks/Screenshot%20from%202023-11-09%2000-14-03.png)
 
-![Alt text](<Screenshot from 2023-11-09 00-15-01.png>)
+![Alt text](https://github.com/itsaviral2609/apiwiz-assignment/blob/main/tasks/Screenshot%20from%202023-11-09%2000-15-01.png)
 
-![Alt text](<Screenshot from 2023-11-09 00-15-24.png>)
+![Alt text](https://github.com/itsaviral2609/apiwiz-assignment/blob/main/tasks/Screenshot%20from%202023-11-09%2000-15-24.png)
 
     
